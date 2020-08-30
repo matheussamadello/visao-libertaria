@@ -4,18 +4,18 @@
 
 # **Visão Libertária**
 
-**Extensão do Chrome que faz o seu navegador tomar uma red pill.**
+Extensão do Chrome que faz o seu navegador tomar uma red pill.
 
 </div>
 
-Esta extensão é um fork que realizei da extensão "[Visão Libertária](https://github.com/MiguelMedeiros/visao-libertaria)" que foi criada por [Miguel Medeiros](https://www.miguelmedeiros.com.br/).
-</br></br>
-Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos termos que ainda não tinham sido adicionados.
+A ideia desse projeto surgiu quando via os vídeos do canal [Ancap.SU](http://ancap.su) e me divertia ouvindo ele trocar os nomes das manchetes por bordões/referências libertárias. Então a partir daí foi só arregaçar as mangas e criar essa extensão!
+
+**Espero que vocês curtam e compartilhem essa ideia!**
 
 ### Rode Localmente
 
 ```shell
-$ git clone https://github.com/matheussamadello/visao-libertaria/ # Clone o repositorio.
+$ git clone https://github.com/MiguelMedeiros/visao-libertaria # Clone o repositorio.
 # Abra o Google Chrome ou qualquer outro baseado nele.
 # Acesse a sessão de extensões.
 # Ative o modo de desenvolvedor.
@@ -23,9 +23,23 @@ $ git clone https://github.com/matheussamadello/visao-libertaria/ # Clone o repo
 # Selecione a pasta raiz do projeto.
 ```
 
+### Outros Projetos
+
+- [Imposto é Roubo](http://www.impostoeroubo.com/)
+- [Bitcoin Price Map](https://www.bitcoinpricemap.com)
+- [Bitcoin Hodler](https://bitcoinhodler.io)
+
 #### Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
 
+### Contribua
+
+<div align="center">
+
+![18kXMmrDtgfeQgVmwfmygTaYLyQuVS4chK](img/donation.png)\
+18kXMmrDtgfeQgVmwfmygTaYLyQuVS4chK
+
+</div>
