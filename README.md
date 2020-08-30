@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visão Libertária](img/icon.png)
+(img/icon.png)
 
 # **Visão Libertária**
 
