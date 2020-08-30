@@ -13,7 +13,7 @@ Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos
 ### Rode Localmente
 
 ```shell
-$ git clone https://github.com/MiguelMedeiros/visao-libertaria # Clone o repositorio.
+$ git clone https://github.com/matheussamadello/visao-libertaria/ # Clone o repositorio.
 # Abra o Google Chrome ou qualquer outro baseado nele.
 # Acesse a sessão de extensões.
 # Ative o modo de desenvolvedor.
