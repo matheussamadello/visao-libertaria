@@ -5,7 +5,7 @@
 Extensão do Chrome que faz o seu navegador tomar uma red pill.
 
 </div>
-Esta extensão é um fork que realizei da extensão ["Visão Libertária"](https://github.com/MiguelMedeiros/visao-libertaria) que foi criada por [Miguel Medeiros](https://www.miguelmedeiros.com.br)
+Esta extensão é um fork que realizei da extensão "Visão Libertária" que foi criada por Miguel Medeiros.
 
 Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos termos que ainda não tinham sido adicionados.
 
