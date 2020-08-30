@@ -4,6 +4,8 @@
 
 # **Visão Libertária**
 
+**Extensão do Chrome que faz o seu navegador tomar uma red pill.**
+
 </div>
 
 Esta extensão é um fork que realizei da extensão "Visão Libertária" que foi criada por Miguel Medeiros.
