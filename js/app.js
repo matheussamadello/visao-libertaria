@@ -204,6 +204,8 @@ function checkElements(parentNode, node) {
         .replace(/\bsindicalista\b/gi, "parasita")
         .replace(/\bpolícia\b/gi, "milícia da máfia")
         .replace(/\bpolícias\b/gi, "milícias da máfia")
+        .replace(/\bbrutalidade policial\b/gi, "brutalidade miliciana da máfia")
+        .replace(/\bviolência policial\b/gi, "violência miliciana da máfia")
         .replace(/\bpolicial\b/gi, "miliciano da máfia")
         .replace(/\bpoliciais\b/gi, "milicianos da máfia")
         .replace(/\bPM\b/gi, "milícia da máfia")
