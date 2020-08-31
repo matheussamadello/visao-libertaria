@@ -16,6 +16,8 @@ Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos
 
 - COVID-1984
 - Gripe Chinesa
+- Rede Esgoto
+- Jornal Funeral
 - Escravo(s)
 
 ### Rode Localmente
