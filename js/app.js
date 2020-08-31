@@ -223,6 +223,7 @@ function checkElements(parentNode, node) {
         .replace(/\bMBL\b/gi, getRandomWord(["Movimento Bumbum Livre", "Movimento Bunda Livre"]))
         .replace(/\bRede Globo\b/gi, "Rede Esgoto")
         .replace(/\bGrupo Globo\b/gi, "Grupo Esgoto")
+        .replace(/\bGloboNews\b/gi, "EsgotoNews")
         .replace(/\bTV Globo\b/gi, "TV Esgoto")
         .replace(/\bRádio Globo\b/gi, "Rádio Esgoto")
         .replace(/\bJornal O Globo\b/gi, "Jornal O Esgoto")
