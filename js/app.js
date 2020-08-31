@@ -197,6 +197,7 @@ function checkElements(parentNode, node) {
         .replace(capturePreviousWord("mega-sena"), customReplacer)
         .replace(/\bmanifestantes\b/gi, "gadosos bovinos")
         .replace(/\bcontribuintes\b/gi, "escravos")
+        .replace(/\bcontribuinte\b/gi, "escravo")
         .replace(/\bsindicalistas\b/gi, "parasitas")
         .replace(/\bsindicalista\b/gi, "parasita")
         .replace(/\bpolícia\b/gi, "milícia da máfia")
