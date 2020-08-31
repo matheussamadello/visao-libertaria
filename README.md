@@ -8,7 +8,7 @@
 
 </div>
 
-Esta extensão é um fork que realizei da extensão "[Visão Libertária](https://github.com/MiguelMedeiros/visao-libertaria)" que foi criada por [Miguel Medeiros](https://www.miguelmedeiros.com.br/).
+Essa extensão é um fork que realizei da extensão "[Visão Libertária](https://github.com/MiguelMedeiros/visao-libertaria)" que foi criada por [Miguel Medeiros](https://www.miguelmedeiros.com.br/).
 
 ### Novos termos que foram adicionados:
 
