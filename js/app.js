@@ -121,6 +121,8 @@ function customReplacer(match, p1, p2, p3, word) {
     word = "Esquema de Pirâmide Estatal";
   } else if (word === "constituição") {
     word = "Guardanapo Sujo";
+  } else if (word === "coronavírus") {
+    word = "Gripe Chinesa";
   } else {
     throw `Nada para substituir o termo ${word}`;
   }
@@ -217,12 +219,13 @@ function checkElements(parentNode, node) {
         .replace(/\bGlobo\b/gi, "Esgoto")
         .replace(/\bJornal Nacional\b/gi, "Jornal Funeral")
         .replace(/\bCOVID-19\b/gi, "COVID-1984")
-        .replace(/\bCoronavírus\b/gi, getRandomWord(["Peste Chinesa", "Gripe Chinesa"]))
         .replace(/\bABIN\b/gi, "Associação de Bestas de Inteligência Nula")
         .replace(/\bOMS\b/gi, "Organização Multiplicadora de Suicídios")
         .replace(/\bEstados Unidos\b/gi, "Maiores Mafiosos do Mundo")
         .replace(/\bEstados Unidos da América\b/gi, "Maiores Mafiosos do Mundo")
+        .replace(capturePreviousWord("coronavírus"), customReplacer)
         .replace(capturePreviousWord("constituição"), customReplacer);
+        
 
       if (replacedText !== text) {
         parentNode.replaceChild(document.createTextNode(replacedText), node);
