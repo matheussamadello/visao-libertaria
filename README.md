@@ -16,7 +16,6 @@ Essa extensão é um fork que realizei da extensão "[Visão Libertária](https:
 - Gripe Chinesa
 - Rede Esgoto
 - Jornal Funeral
-- Escravo(s)
 
 ### Rode Localmente
 
