@@ -17,8 +17,6 @@ Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos
 - COVID-1984
 - Gripe Chinesa
 - Escravo(s)
-</br> 
-etc.
 
 ### Rode Localmente
 
