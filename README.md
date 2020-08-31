@@ -12,6 +12,13 @@ Esta extensão é um fork que realizei da extensão "[Visão Libertária](https:
 </br></br>
 Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos termos que ainda não tinham sido adicionados.
 
+### Novos termos que foram adicionados
+
+-COVID-1984
+-Gripe Chinesa
+-Escravo(s)
+-etc.
+
 ### Rode Localmente
 
 ```shell
