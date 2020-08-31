@@ -182,11 +182,15 @@ function checkElements(parentNode, node) {
           ])
         )
         .replace(
-          "Bolsonaro",
-          "Líder Supremo " +
-            getRandomWord(["da Máfia", "da Milícia", "da Gangue"])
+          "Bolsonaro", getRandomWord(["Bonoro", "Biroliro"])
         )
-        .replace("Lula", "Ladrão de 9 Dedos")
+        .replace(
+          "Alexandre de Moraes", getRandomWord(["Cabeça de Ovo", "Cabeça de Piroca"])
+        )
+        .replace(
+          "Lula", getRandomWord(["Cachaceiro de 9 dedos", "Ladrão de 9 dedos"])
+        )
+        .replace("Xi Jinping", "Ursinho Pooh")
         .replace("Rodrigo Maia", "Nhonho")
         .replace("Maia", "Nhonho")
         .replace(/\bpresidentes\b/gi, "Líderes de Milícias")
