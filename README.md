@@ -27,3 +27,12 @@ $ git clone https://github.com/matheussamadello/visao-libertaria # Clone o repos
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
+
+### Contribua
+
+<div align="center">
+
+![38kDQzdYYtWpN26dUKFSLEs9w2pweQGdFv](img/donation.png)\
+38kDQzdYYtWpN26dUKFSLEs9w2pweQGdFv
+
+</div>
