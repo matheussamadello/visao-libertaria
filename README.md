@@ -12,12 +12,12 @@ Essa extensão é um fork que realizei da extensão "[Visão Libertária](https:
 
 ### Novos termos que foram adicionados:
 
+- Cabeça de Ovo
 - COVID-1984
 - Gripe Chinesa
-- Rede Esgoto
 - Jornal Funeral
+- Rede Esgoto
 - Ursinho Pooh
-- Cabeça de Ovo
 
 ### Rode Localmente
 
