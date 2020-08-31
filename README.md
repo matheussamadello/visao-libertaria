@@ -14,10 +14,10 @@ Neste fork eu modifico alguns termos anteriores, removo outros e introduzo novos
 
 ### Novos termos que foram adicionados
 
--COVID-1984
--Gripe Chinesa
--Escravo(s)
--etc.
+-[COVID-1984]
+-[Gripe Chinesa]
+-[Escravo(s)]
+-[etc.]
 
 ### Rode Localmente
 
