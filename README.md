@@ -10,15 +10,6 @@
 
 Essa extensão é um fork que realizei da extensão "[Visão Libertária](https://github.com/MiguelMedeiros/visao-libertaria)" criada por [Miguel Medeiros](https://www.miguelmedeiros.com.br/).
 
-### Novos termos que foram adicionados:
-
-- Cabeça de Ovo
-- COVID-1984
-- Gripe Chinesa
-- Jornal Funeral
-- Rede Esgoto
-- Ursinho Pooh
-
 ### Rode Localmente
 
 ```shell
