@@ -193,6 +193,8 @@ function checkElements(parentNode, node) {
         .replace("Xi Jinping", "Ursinho Pooh")
         .replace("Rodrigo Maia", "Nhonho")
         .replace("Maia", "Nhonho")
+        .replace("Dória", "Ditadória")
+        .replace("Witzel", "Auschwitzel")
         .replace(/\bpresidentes\b/gi, "Líderes de Milícias")
         .replace(/\bprevidência\b/gi, "Pirâmide Estatal")
         .replace(capturePreviousWord("loteria"), customReplacer)
