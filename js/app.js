@@ -194,6 +194,7 @@ function checkElements(parentNode, node) {
         .replace("Rodrigo Maia", "Nhonho")
         .replace("Maia", "Nhonho")
         .replace("Dória", "Ditadória")
+        .replace("Doria", "Ditadória")
         .replace("Witzel", "Auschwitzel")
         .replace(/\bpresidentes\b/gi, "Líderes de Milícias")
         .replace(/\bprevidência\b/gi, "Pirâmide Estatal")
