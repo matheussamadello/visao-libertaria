@@ -169,8 +169,6 @@ function checkElements(parentNode, node) {
         .replace(/\blegislações\b/gi, "regras da máfia")
         .replace(/\blei\b/gi, "regra da máfia")
         .replace(/\bleis\b/gi, "regras da máfia")
-        .replace(/\bdólar\b/gi, "papelzinho colorido")
-        .replace(/\bdólares\b/gi, "papeizinhos coloridos")
         .replace(/\bprefeitura\b/gi, "casa da máfia")
         .replace(/\bregulamentação\b/gi, "lei do mais forte")
         .replace(
